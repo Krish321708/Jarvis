@@ -54,7 +54,7 @@ project-hermes/
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/your-username/project-hermes.git
+git clone https://github.com/Krish321708/Jarvis.git
 cd project-hermes
 ```
 
