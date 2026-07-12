@@ -55,7 +55,7 @@ project-hermes/
 ### 2. Clone the Repository
 ```bash
 git clone https://github.com/Krish321708/Jarvis.git
-cd project-hermes
+cd Jarvis
 ```
 
 ### 3. Virtual Environment & Dependencies
